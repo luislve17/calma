@@ -2,7 +2,7 @@
 
 > Minimal zsh theme to keep sanity in check
 
-![ss](https://imgur.com/a/MenYIV4)
+![img](https://i.imgur.com/PFcQ4x4.png)
 
 ## Installation
 
