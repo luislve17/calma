@@ -2,6 +2,8 @@
 
 > Minimal zsh theme to keep sanity in check
 
+![ss](https://imgur.com/a/MenYIV4)
+
 ## Installation
 
 1. Clone the repo
