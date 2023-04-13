@@ -19,7 +19,7 @@ cd calma
 ```bash
 ln -s /full/path/to/calma/calma.zsh-theme ~/.oh-my-zsh/themes/calma.zsh-theme
 ```
-Please [avoid using relative paths when creating symbolic links]https://www.reddit.com/r/linuxquestions/comments/e6n110/comment/f9ru19l/?utm_source=share&utm_medium=web3x()
+Please [avoid using relative paths when creating symbolic links](https://www.reddit.com/r/linuxquestions/comments/e6n110/comment/f9ru19l/?utm_source=share&utm_medium=web3x)
 
 4. Use the theme from you .zshrc file
 ```bash
