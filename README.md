@@ -2,6 +2,8 @@
 
 > Minimal zsh theme to keep sanity in check
 
+![img](https://i.imgur.com/RLfFeR5.png)
+
 ## Installation
 
 1. Clone the repo
