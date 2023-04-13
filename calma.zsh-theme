@@ -20,7 +20,7 @@ function git_prompt_info() {
   fi
 }
 
-PROMPT='%f%(?..%F{red}[%?]%f )%F{blue}[%D{%H:%M}]%f %f%B%1~$(git_prompt_info)%b%f ${PROMPT_COLOR}%B⊙%b%f '
+PROMPT='%f%(?..%F{red}[%?]%f )%F{blue}[%D{%H:%M}]%f %f%B@%1~$(git_prompt_info)%b%f ${PROMPT_COLOR}%B⊙%b%f '
 
 precmd_functions+=(set_prompt_color)
 
